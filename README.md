@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @2102ankit (Ankit Mishra)
 - 👀 I’m interested in Programming and Software Development
-- 🌱 I’m currently learning Java and Front end Development
-- <!---💞️ I’m looking to collaborate on ...--->
+- 🌱 I’m currently learning Java and Front end Development <!---💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me : Email    : 2102ankitm@gmail.com 
 -                       Discord  : 2102.ankit
 
