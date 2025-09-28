@@ -22,7 +22,7 @@
             "style": "folder"
           },
           "style": "diamond",
-          "template": "<#42E66C> \uf07b <b>{{ .Path }}</b>",
+          "template": "<#42E66C> \uf4C1 <b>{{ .Path }}</b>",
           
           "type": "path"
         },
